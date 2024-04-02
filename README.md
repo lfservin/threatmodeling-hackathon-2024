@@ -36,3 +36,9 @@ Source:
 Source:
 https://ieeecs-media.computer.org/media/technical-activities/CYBSI/docs/Top-10-Flaws.pdf
 
+## Threat Catalogs
+
+Not complete, but a good place to start:
+
+* Shostack's elevation of privilege in a condensed form is here [eop](eop_cards.yaml)
+* Katenga's Machine Learning Elevation of privilege in a condensed form is here [mlsec](mlsec_eop.yaml)
