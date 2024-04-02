@@ -1,5 +1,5 @@
 # This is inspied by Fraser Scott's Alexa implementation of EoP https://github.com/zeroXten/alexa_threat_model_game/blob/master/cards.yaml 
-# 
+# forked from https://github.com/kantega/elevation-of-mlsec/blob/main/game/cards.yaml
 sources:
   BIML_78:
     title: Architectural Risk Analysis of Machine Learning Systems
